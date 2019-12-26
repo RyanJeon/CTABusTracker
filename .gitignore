@@ -1,0 +1,3 @@
+*.swp
+back/config.yml
+back/node_modules/
